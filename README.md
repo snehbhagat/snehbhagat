@@ -58,6 +58,10 @@
 
 ### Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&borderRadius=8)](https://linkedin.com/in/yanendrajha) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&borderRadius=8)](https://github.com/Yanendrajha) [![Coding Profile](https://img.shields.io/badge/Leetcode-lavender?style=flat&logo=web&borderRadius=8)](https://codolio.com/profile/Yanendra_jha) [![Email](https://img.shields.io/badge/Email-white?style=flat&logo=gmail&borderRadius=8)](mailto:Yanendrajha37@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&borderRadius=8)](https://www.linkedin.com/in/sneh-bhagat-788a6b267/) 
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&borderRadius=8)](https://github.com/snehbhagat) 
+[![Leetcode](https://img.shields.io/badge/Leetcode-orange?style=flat&logo=leetcode&borderRadius=8)](https://leetcode.com/SnehBhagat_2406) 
+[![Email](https://img.shields.io/badge/Email-white?style=flat&logo=gmail&borderRadius=8)](mailto:snehbhagat12@gmail.com)  
+
 
 🔥 *Always exploring
