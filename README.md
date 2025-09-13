@@ -47,10 +47,10 @@
 
 
 ## GitHub Stats
-[![Sneh's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Yanendrajha&hide=stars&hide_border=true&rank_icon=github&show_icons=true&hide_title=true&theme=midnight-purple#gh-dark-mode-only)](https://github.com/yanendrajha/github-readme-stats#gh-dark-mode-only)
-[![Sneh's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Yanendrajha&hide=stars&hide_border=true&hide_title=true&rank_icon=github&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/yanendrajha/github-readme-stats#gh-light-mode-only)
-[![Sneh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yanendrajha&hide_title=true&hide_border=true&layout=compact&theme=midnight-purple#gh-dark-mode-only)](https://github.com/yanendrajha/github-readme-stats#gh-dark-mode-only)
-[![Sneh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yanendrajha&layout=compact&hide_border=true&hide_title=true&theme=buefy#gh-light-mode-only)](https://github.com/yanendrajha/github-readme-stats#gh-light-mode-only)
+[![Sneh's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=snehbhagat&hide=stars&hide_border=true&rank_icon=github&show_icons=true&hide_title=true&theme=midnight-purple#gh-dark-mode-only)](https://github.com/snehbhagat/github-readme-stats#gh-dark-mode-only)
+[![Sneh's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=snehbhagat&hide=stars&hide_border=true&hide_title=true&rank_icon=github&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/yanendrajha/github-readme-stats#gh-light-mode-only)
+[![Sneh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snehbhagat&hide_title=true&hide_border=true&layout=compact&theme=midnight-purple#gh-dark-mode-only)](https://github.com/yanendrajha/github-readme-stats#gh-dark-mode-only)
+[![Sneh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snehbhagat&layout=compact&hide_border=true&hide_title=true&theme=buefy#gh-light-mode-only)](https://github.com/yanendrajha/github-readme-stats#gh-light-mode-only)
 
 
 
@@ -60,8 +60,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&borderRadius=8)](https://www.linkedin.com/in/sneh-bhagat-788a6b267/) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&borderRadius=8)](https://github.com/snehbhagat) 
-[![Leetcode](https://img.shields.io/badge/Leetcode-orange?style=flat&logo=leetcode&borderRadius=8)](https://leetcode.com/SnehBhagat_2406) 
-[![Email](https://img.shields.io/badge/Email-white?style=flat&logo=gmail&borderRadius=8)](mailto:snehbhagat12@gmail.com)  
+[![Leetcode](https://img.shields.io/badge/Leetcode-orange?style=flat&logo=leetcode&borderRadius=8)](https://leetcode.com/SnehBhagat2406) 
+[![Email](https://img.shields.io/badge/Email-white?style=flat&logo=gmail&borderRadius=8)](snehbhagat12@gmail.com)  
 
 
 🔥 *Always exploring
