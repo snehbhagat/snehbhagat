@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Yanendra Jha! 🚀</h1>
+<h1 align="center">Hey, I'm Sneh Bhagat! 🚀</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FD853A&center=true&vCenter=true&width=500&lines=Java+Spring;Backend+Engineer;Tech+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
@@ -47,10 +47,10 @@
 
 
 ## GitHub Stats
-[![Yanendra's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Yanendrajha&hide=stars&hide_border=true&rank_icon=github&show_icons=true&hide_title=true&theme=midnight-purple#gh-dark-mode-only)](https://github.com/yanendrajha/github-readme-stats#gh-dark-mode-only)
-[![Yanendra's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Yanendrajha&hide=stars&hide_border=true&hide_title=true&rank_icon=github&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/yanendrajha/github-readme-stats#gh-light-mode-only)
-[![Yanendra Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yanendrajha&hide_title=true&hide_border=true&layout=compact&theme=midnight-purple#gh-dark-mode-only)](https://github.com/yanendrajha/github-readme-stats#gh-dark-mode-only)
-[![Yanendra Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yanendrajha&layout=compact&hide_border=true&hide_title=true&theme=buefy#gh-light-mode-only)](https://github.com/yanendrajha/github-readme-stats#gh-light-mode-only)
+[![Sneh's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Yanendrajha&hide=stars&hide_border=true&rank_icon=github&show_icons=true&hide_title=true&theme=midnight-purple#gh-dark-mode-only)](https://github.com/yanendrajha/github-readme-stats#gh-dark-mode-only)
+[![Sneh's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Yanendrajha&hide=stars&hide_border=true&hide_title=true&rank_icon=github&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/yanendrajha/github-readme-stats#gh-light-mode-only)
+[![Sneh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yanendrajha&hide_title=true&hide_border=true&layout=compact&theme=midnight-purple#gh-dark-mode-only)](https://github.com/yanendrajha/github-readme-stats#gh-dark-mode-only)
+[![Sneh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yanendrajha&layout=compact&hide_border=true&hide_title=true&theme=buefy#gh-light-mode-only)](https://github.com/yanendrajha/github-readme-stats#gh-light-mode-only)
 
 
 
