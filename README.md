@@ -46,9 +46,10 @@ I'm a passionate Backend Developer with a keen interest in building modern, scal
 ---
 
 ## GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehbhagat&layout=compact&hide_border=true&theme=transparent)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=snehbhagat&hide_border=true&mode=weekly&theme=default)](https://git.io/streak-stats)  
+[![Sneh's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=snehbhagat&hide=stars&hide_border=true&rank_icon=github&show_icons=true&hide_title=true&theme=midnight-purple#gh-dark-mode-only)](https://github.com/yanendrajha/github-readme-stats#gh-dark-mode-only)
+[![Sneh's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=snehbhagat&hide=stars&hide_border=true&hide_title=true&rank_icon=github&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/yanendrajha/github-readme-stats#gh-light-mode-only)
+[![Sneh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snehbhagata&hide_title=true&hide_border=true&layout=compact&theme=midnight-purple#gh-dark-mode-only)](https://github.com/yanendrajha/github-readme-stats#gh-dark-mode-only)
+[![Sneh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snehbhagat&layout=compact&hide_border=true&hide_title=true&theme=buefy#gh-light-mode-only)](https://github.com/yanendrajha/github-readme-stats#gh-light-mode-only)
 
 ---
 
