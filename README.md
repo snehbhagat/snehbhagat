@@ -55,10 +55,7 @@ I'm a passionate Backend Developer with a keen interest in building modern, scal
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sneh-bhagat-788a6b267/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/snehbhagat)  
-[![Leetcode](https://img.shields.io/badge/Leetcode-orange?style=flat&logo=leetcode)](https://leetcode.com/SnehBhagat2406)  
-[![Email](https://img.shields.io/badge/Email-white?style=flat&logo=gmail)](mailto:snehbhagat12@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sneh-bhagat-788a6b267/)  [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/snehbhagat)  [![Leetcode](https://img.shields.io/badge/Leetcode-orange?style=flat&logo=leetcode)](https://leetcode.com/SnehBhagat2406)  [![Email](https://img.shields.io/badge/Email-white?style=flat&logo=gmail)](mailto:snehbhagat12@gmail.com)  
 
 ---
 
