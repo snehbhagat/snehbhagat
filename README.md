@@ -1,6 +1,7 @@
+![Always working](https://github.com/user-attachments/assets/858675fd-359b-4a00-85ad-b30cbc061617)
 <h1 align="center">Hey, I'm Sneh Bhagat</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FD853A&center=true&vCenter=true&width=500&lines=Java+Spring;Backend+Engineer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FD853A&center=true&vCenter=true&width=500&lines=Java;Backend+Engineer;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 ## About Me
